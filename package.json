@@ -1,0 +1,29 @@
+{
+  "name": "Random-Quotations-LGBTQIA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciapannunzio/Random-Quotations-LGBTQIA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciapannunzio/Random-Quotations-LGBTQIA/issues"
+  },
+  "homepage": "https://github.com/luciapannunzio/Random-Quotations-LGBTQIA#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "live-server": "^1.1.0",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.52.3"
+  },
+  "dependencies": {
+    "node-modules": "^0.0.1"
+  }
+}

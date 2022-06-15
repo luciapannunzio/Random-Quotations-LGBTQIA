@@ -1,6 +1,6 @@
 # Random-Quotations-LGBTQIA
 
-## [Test this app yourself]( )
+## [Test this app yourself]( https://luciapannunzio.github.io/Random-Quotations-LGBTQIA/ )
 
 ![Screenshot from 2022-06-15 19-23-24](https://user-images.githubusercontent.com/89199990/173888411-ec2de090-1f22-4448-8790-933015655d68.png)
 
@@ -51,7 +51,7 @@
  - [ ] React
  - [ ] Bootstrap
  - [X] npm
- - [X] Dom
+ - [ ] Dom
  
  
  * * *
